@@ -6,4 +6,4 @@
 
 $music_dir = "music";
 $local_enc = "CP1251";
-$fallback_album_art = "assets/img/no-album-art.png";
+$fallback_album_art = "assets/img/no-album-art.jpg";
